@@ -22,6 +22,7 @@ const App = () => {
         setLoading(false);
       }
     };
+  //Display a <p>tag with text of "Loading..." when the component is first rendered
   
     return (
       <div>
